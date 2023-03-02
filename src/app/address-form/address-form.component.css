@@ -1,0 +1,24 @@
+.example-full-width {
+  width: 100%;
+}
+
+td {
+  padding-right: 8px;
+}
+
+.leftmenu{
+  background-color: red;
+}
+
+.rightmenu{
+  background-color: black;
+}
+
+.menucontent{
+  background-color: aqua;
+  margin-top: 50px;
+}
+
+.content{
+  background-color: yellowgreen;
+}
